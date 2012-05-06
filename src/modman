@@ -1,0 +1,3 @@
+app/code/community/Aijko/CustomOptionDescription    app/code/community/Aijko/CustomOptionDescription
+app/etc/modules/Aijko_CustomOptionDescription.xml   app/etc/modules/Aijko_CustomOptionDescription.xml
+app/design/adminhtml/default/default/template/*     app/design/adminhtml/default/default/template
